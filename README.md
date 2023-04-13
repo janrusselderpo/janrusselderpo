@@ -31,5 +31,7 @@ When I have nothing to do I play games on mainly online multiplayer games with m
 
 ## Contact
 = Phone Number: (+63) 9956651249
+
 = Email: janrusselderpo@yahoo.com
+
 = Facebook: janrusselderpo
