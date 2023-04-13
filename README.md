@@ -5,20 +5,29 @@ I always yearn for to gain more and more knowledge in coding, to further improve
 
 ## Course works 
 •	Elysium: Online Geographic Information System for Binan Public Cemetery
+
 Role: Back-end developer
+
 Link: https://elysium-4f347.web.app
+
 Programming Language Used: HTML, Javascript, JQuery
+
 Database Used: Firebase Firestore
 
 •	Violations Record System
+
 Link: https://github.com/janrusselderpo/INTEGQ1_Derpo-JanRussel
+
 Programming Language Used: C#
+
 Database Used: MySQL
 
 •	Training Certificate Management System List
+
 Link: https://github.com/janrusselderpo?tab=repositories
 
 Programming Language Used: C#
+
 Database Used: MySQL
 
 ## Technical Skills
