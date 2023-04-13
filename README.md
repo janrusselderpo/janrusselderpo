@@ -5,36 +5,26 @@ I always yearn for to gain more and more knowledge in coding, to further improve
 
 ## Course works 
 •	Elysium: Online Geographic Information System for Binan Public Cemetery
-
-Role: Back-end developer
-
-Link: https://elysium-4f347.web.app
-
-Programming Language Used: HTML, Javascript, JQuery
-
-Database Used: Firebase Firestore
+  - Role: Back-end developer
+  - Link: https://elysium-4f347.web.app
+  - Programming Language Used: HTML, Javascript, JQuery
+  - Database Used: Firebase Firestore
 
 •	Violations Record System
-
-Link: https://github.com/janrusselderpo/INTEGQ1_Derpo-JanRussel
-
-Programming Language Used: C#
-
-Database Used: MySQL
+  - Link: https://github.com/janrusselderpo/INTEGQ1_Derpo-JanRussel
+  -Programming Language Used: C#
+  - Database Used: MySQL
 
 •	Training Certificate Management System List
-
-Link: https://github.com/janrusselderpo?tab=repositories
-
-Programming Language Used: C#
-
-Database Used: MySQL
+  - Link: https://github.com/janrusselderpo?tab=repositories
+  - Programming Language Used: C#
+  - Database Used: MySQL
 
 ## Technical Skills
-●	Proficient in programming languages such as JAVA, C#, HTML, PHP, Javascript, JQuery and SQL.
-●	Experienced in using software applications such as Visual Studio IDE and Visual Studio Code.
-●	Oriented in MySql
-●	Experienced in database management using MySQL and Firebase Firestore
+  ●	Proficient in programming languages such as JAVA, C#, HTML, PHP, Javascript, JQuery and SQL.
+  ●	Experienced in using software applications such as Visual Studio IDE and Visual Studio Code.
+  ●	Oriented in MySql
+  ●	Experienced in database management using MySQL and Firebase Firestore
 
 ## Hobbies
 When I have nothing to do I play games on mainly online multiplayer games with my friends like Valorant, LOL, or Chess.com. I love to play games that would engage my problem-solving skills and work my brain.
