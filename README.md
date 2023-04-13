@@ -1,9 +1,9 @@
 # Jan Russel D. Derpo
 
-##Summary 
+## Summary 
 I always yearn for to gain more and more knowledge in coding, to further improve myself and my skills. I am passionate in what I do and will focus on the job given or the task at hand. 
 
-##Course works 
+## Course works 
 •	Elysium: Online Geographic Information System for Binan Public Cemetery
 Role: Back-end developer
 Link: https://elysium-4f347.web.app
