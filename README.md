@@ -12,7 +12,7 @@ I always yearn for to gain more and more knowledge in coding, to further improve
 
 •	Violations Record System
   - Link: https://github.com/janrusselderpo/INTEGQ1_Derpo-JanRussel
-  -Programming Language Used: C#
+  - Programming Language Used: C#
   - Database Used: MySQL
 
 •	Training Certificate Management System List
