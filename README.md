@@ -21,10 +21,10 @@ I always yearn for to gain more and more knowledge in coding, to further improve
   - Database Used: MySQL
 
 ## Technical Skills
-  ●	Proficient in programming languages such as JAVA, C#, HTML, PHP, Javascript, JQuery and SQL.
-  ●	Experienced in using software applications such as Visual Studio IDE and Visual Studio Code.
-  ●	Oriented in MySql
-  ●	Experienced in database management using MySQL and Firebase Firestore
+  - Proficient in programming languages such as JAVA, C#, HTML, PHP, Javascript, JQuery and SQL.
+  - Experienced in using software applications such as Visual Studio IDE and Visual Studio Code.
+  -	Oriented in MySql
+  -	Experienced in database management using MySQL and Firebase Firestore
 
 ## Hobbies
 When I have nothing to do I play games on mainly online multiplayer games with my friends like Valorant, LOL, or Chess.com. I love to play games that would engage my problem-solving skills and work my brain.
