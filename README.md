@@ -1,4 +1,4 @@
-# Jan Russel D. Derpo
+# Jan Russel Derpo
 
 ## Summary 
 I always yearn to gain more and more knowledge in coding, to further improve myself and my skills. I am passionate in what I do and will focus on the job given or the task at hand. I am a fresh college graduate from PUP BINAN with a Bachelor of Science in Information Technology. 
